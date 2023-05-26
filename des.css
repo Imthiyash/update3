@@ -1,0 +1,75 @@
+body {
+    margin-right: 450px;
+    margin-left: 450px;
+    border: 3px solid black;
+    border-radius: 20px;
+    padding: 19px;
+    /*background-image: url("./img/images.jpeg");*/
+    background-size: 100% 100%;
+    background-color: wheat;
+    font-size: large;
+    font-family: serif;
+}
+
+.coloured-title{
+    background-color: darkseagreen;
+    color : black;
+    text-align: center;
+    border-radius: 10px;
+    border: 1px solid black;
+}
+
+h1{
+    text-align: center;
+}
+
+.box {
+    background-color: aqua;
+}
+
+img{
+    border : 5px solid white;
+}
+
+.img-t{
+    color: whitesmoke;
+    text-align: center;
+}
+
+.figures{
+    text-align: center;
+    background-color: black;
+    border: 5px solid white;
+    padding: 5px;
+    padding-left: 0px;
+    margin-left: 10%;
+    margin-right: 10%;
+}
+
+
+a {
+    color: purple;
+}
+
+a:hover, a:active {
+    color: red;
+}
+
+table, tr, th, td, caption {
+    border: 1px solid black;
+    font-family: 'Courier New', Courier, monospace;
+    color: black;
+    border-collapse: collapse;
+    padding: 0.5rem;
+}
+
+button{
+    background-color: blue;
+    color: white;
+    border-radius: 5px;
+}
+
+.copyright{
+    color : white;
+    background-color: black;
+}
